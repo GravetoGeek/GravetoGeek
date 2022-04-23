@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Eduardo Sá Ribeiro de Moraes</h1>
-<h2 align="center">Desenvolvedor e Professor</h2>
+<h2 align="center">Professor e Desenvolvedor</h2>
 
 
   <a href="https://github.com/gravetogeek" target="_blank">
