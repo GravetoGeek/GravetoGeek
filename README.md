@@ -97,3 +97,5 @@ Professor e Desenvolvedor
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GravetoGeek&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[![Eduardo Sá Ribeiro de Moraes profile views](https://u8views.com/api/v1/github/profiles/2249079/views/day-week-month-total-count.svg)](https://u8views.com/github/GravetoGeek)
