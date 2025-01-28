@@ -95,7 +95,6 @@ Professor e Desenvolvedor
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=GravetoGeek&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
 [![](https://visitcount.itsvg.in/api?id=GravetoGeek&icon=0&color=0)](https://visitcount.itsvg.in)
 
 [![Eduardo Sá Ribeiro de Moraes profile views](https://u8views.com/api/v1/github/profiles/2249079/views/day-week-month-total-count.svg)](https://u8views.com/github/GravetoGeek)
